@@ -1,0 +1,30 @@
+Flood-Prediction-System/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+├── app.py
+├── model.py
+├── train_model.py
+├── predict.py
+├── flood_model.pkl
+│
+├── dataset/
+│   └── flood_data.csv
+│
+├── templates/
+│   ├── index.html
+│   ├── result.html
+│   └── about.html
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+│
+└── screenshots/
+    ├── home_page.png
+    ├── prediction_page.png
+    └── result_page.png
